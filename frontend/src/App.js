@@ -1,11 +1,13 @@
-import './App.css';
+import './App.css'
 
 function App() {
   return (
     <div className="app">
-      <h1>Book lLibrary App</h1>
+      <header className="app-header">
+        <h1>Book Library App</h1>
+      </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
